@@ -19,7 +19,7 @@ class CityRepository {
 
         // weather
         val city: String = nome
-        val key: String = "fea84863a7eb5714d4c3f947da6c802a"
+        val key: String = "your-key"
         val urlWeather: String = "https://api.openweathermap.org/data/2.5/weather?q="
 
         val resp = URL("${urlWeather}${city}&appid=${key}&units=metric").readText()
