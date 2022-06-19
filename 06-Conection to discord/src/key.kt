@@ -1,2 +1,0 @@
-val mykey: String = "5f25491e6192fc1d205e165bc25564d514d2a97914470a3f2659a0048828c4b3"
-val myurl: String = "https://discord.com/api/oauth2/authorize?client_id=974741033743167518&permissions=8&scope=bot"
